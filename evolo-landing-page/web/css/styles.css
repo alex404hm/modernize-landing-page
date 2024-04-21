@@ -639,7 +639,6 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 7.4375rem;
 	height: 2rem;
 }
 
@@ -1168,7 +1167,7 @@ input[type='checkbox'] {
 	margin-bottom: 2.25rem;
 }
 
-.basic-3 .image-container img {
+.basic-3 .image-container {
 	border-radius: 0.5rem;
 }
 
@@ -2181,3 +2180,14 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+.copyright{
+	text-decoration: none;
+}
+.footer-col{
+	margin-left: 400px;
+	text-align: center;
+}
+.img{
+	width: 100%;
+}
